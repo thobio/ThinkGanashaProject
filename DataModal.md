@@ -23,9 +23,9 @@
         4. des_text   : String
         5. entries_user_id : String
 
-### Flaged Entry list 
+### Flagged Entry list 
 
-    Flaged Entry list is the list of entry that other user reported flag.
+    Flagged Entry list is the list of entry that other user reported flag.
 
         1. entries_id : String
         2. image_url  : String
@@ -41,9 +41,9 @@
             3. flag_message : String
             4. flag_user_id : String
 
-###  Flaged EntryList 
+###  Flagged EntryList 
 
-    Flaged Entry remove the flaged entry or remove the flag from the entry
+    Flagged Entry remove the Flagged entry or remove the flag from the entry
 
         1. entry_id : String
         2. remove_all_flag : Bool
